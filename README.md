@@ -62,11 +62,11 @@ List of Data Warehouse KPI's:
 
 This project's Dimensional Model consists of 1 Fact and 3 Dimensions.
 
-![Dimension model](/Users/yunyunjin/Documents/GitHub/NYC-Housing-Market-Forecasting/img/Dimension_model.jpg)
+![Dimension model](/img/Dimension_model.jpg)
 
 This project's Kimball Bus Matrix:
 
-![Kimball bus matrix](/Users/yunyunjin/Documents/GitHub/NYC-Housing-Market-Forecasting/img/Kimball_BUS_Matrix.jpg)
+![Kimball bus matrix](/img/Kimball_BUS_Matrix.jpg)
 
 ### Business Intelligence Design and Development
 
@@ -86,15 +86,15 @@ List of Visualizations for each KPI:
 
 BI Application Wireframe design:
 
-![Wireframe design-1](/Users/yunyunjin/Documents/GitHub/NYC-Housing-Market-Forecasting/img/BI_Wireframe_Design-1.jpg)
-![Wireframe design-2](/Users/yunyunjin/Documents/GitHub/NYC-Housing-Market-Forecasting/img/BI_Wireframe_Design-2.jpg)
-![Wireframe design-3](/Users/yunyunjin/Documents/GitHub/NYC-Housing-Market-Forecasting/img/BI_Wireframe_Design-3.jpg)
+![Wireframe design-1](/img/BI_Wireframe_Design-1.jpg)
+![Wireframe design-2](/img/BI_Wireframe_Design-2.jpg)
+![Wireframe design-3](/img/BI_Wireframe_Design-3.jpg)
 
 Picture of final Dashboard:
 
-![Dashboard-1](/Users/yunyunjin/Documents/GitHub/NYC-Housing-Market-Forecasting/img/Dashboard-1.jpg)
-![Dashboard-2](/Users/yunyunjin/Documents/GitHub/NYC-Housing-Market-Forecasting/img/Dashboard-2.jpg)
-![Dashboard-1](/Users/yunyunjin/Documents/GitHub/NYC-Housing-Market-Forecasting/img/Dashboard-3.jpg)
+![Dashboard-1](/img/Dashboard-1.jpg)
+![Dashboard-2](/img/Dashboard-2.jpg)
+![Dashboard-1](/img/Dashboard-3.jpg)
 
 ### Deployment
 
